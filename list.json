@@ -2,9 +2,9 @@
 	"system": "AWEX Fire Alarm System",
 	"firmwares":
 	[
-		{ "id": "20", "project": "1420p1",	"name": "CM1", 		"version": "01.01.00r57", 	"file": "CM1.01.01.00r57.bin" },
-		{ "id": "21", "project": "1425p1", 	"name": "ESP", 		"version": "01.01.00r43", 	"file": "FACP.01.01.00r43.bin" },
-		{ "id": "7B", "project": "1903p1", 	"name": "FASmini", 	"version": "01.00.00r48", 	"file": "FMIN.01.00.00r48.bin" },
+		{ "id": "20", "project": "1420p1",	"name": "CM1", 		"version": "01.01.00r58", 	"file": "CM1.01.01.00r58.bin" },
+		{ "id": "21", "project": "1425p1", 	"name": "ESP", 		"version": "01.01.00r44", 	"file": "FACP.01.01.00r44.bin" },
+		{ "id": "7B", "project": "1903p1", 	"name": "FASmini", 	"version": "01.00.00r49", 	"file": "FMIN.01.00.00r49.bin" },
 		
 		{ "id": "2A", "project": "1414p1",	"name": "DTS", 		"version": "01.00.03r1", 	"file": "DETECTOR.01.00.03r1.bin" },
 		{ "id": "28", "project": "1439p1", 	"name": "ROP21", 	"version": "01.00.02r3", 	"file": "MCP.01.00.02r3.bin" },
@@ -24,10 +24,8 @@
 		{ "id": "59", "project": "1632p1",	"name": "MIO4N4N", 	"version": "01.00.02r9", 	"file": "MIO4N4N.01.00.02r9.bin" },
 		{ "id": "2F", "project": "1605p1",	"name": "MIO88", 	"version": "01.00.02r9", 	"file": "MIO88.01.00.02r9.bin" },
 
-		{ "id": "A1", "project": "2004p1",	"name": "LA", 		"version": "01.00.00r4", 	"file": "FSOA.01.00.00r4.bin" },
 		{ "id": "9E", "project": "2004p1",	"name": "LAP", 		"version": "01.00.00r4", 	"file": "FSOA.01.00.00r4.bin" },
 		{ "id": "9F", "project": "2004p2",	"name": "LVP", 		"version": "01.00.00r4", 	"file": "FVSO.01.00.00r4.bin" },
-		{ "id": "A0", "project": "2004p3",	"name": "LOP", 		"version": "01.00.00r4", 	"file": "FSOA.01.00.00r4.bin" },
 		{ "id": "30", "project": "2004p3",	"name": "LAOP", 	"version": "01.00.00r4", 	"file": "FSOA.01.00.00r4.bin" },
 		{ "id": "86", "project": "2004p4",	"name": "LVOP", 	"version": "01.00.00r4", 	"file": "FVSO.01.00.00r4.bin" }
 	
